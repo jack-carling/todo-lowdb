@@ -1,0 +1,15 @@
+{
+  "name": "lowdb-exercise",
+  "version": "1.0.0",
+  "description": "## Instruktioner",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Christoffer Wallenberg",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
+}
