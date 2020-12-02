@@ -1,15 +1,24 @@
 {
-  "name": "lowdb-exercise",
+  "name": "ovning---lowdb-jensengbg-jack-carling",
   "version": "1.0.0",
-  "description": "## Instruktioner",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Christoffer Wallenberg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRK20G/ovning---lowdb-jensengbg-jack-carling.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRK20G/ovning---lowdb-jensengbg-jack-carling/issues"
+  },
+  "homepage": "https://github.com/FRK20G/ovning---lowdb-jensengbg-jack-carling#readme",
   "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
     "lowdb": "^1.0.0"
   }
 }
